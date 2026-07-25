@@ -12,7 +12,7 @@ University of West London
 
 ## Project Overview
 
-Mood Journal is a fully-featured Android app that helps users track their daily emotional wellbeing. Users can log their mood with emojis, add personal notes, view their mood history, and analyze patterns through an interactive chart — all secured behind a PIN lock. The app also sends daily reminders and generates weekly PDF reports.
+Android mood tracking app with PIN lock security, streak tracking, and weekly PDF reports — starts with 8 default mood categories, fully customizable with unlimited user-added moods and emojis.
 
 ---
 
