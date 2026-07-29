@@ -1,4 +1,4 @@
-# 😊 Mood Journal — Personal Mood Tracker
+![Create_pin1](https://github.com/user-attachments/assets/1199343e-8186-48d8-a039-af0d6654c18d)# 😊 Mood Journal — Personal Mood Tracker
 
 A beautiful and secure personal mood tracking Android app built with Kotlin and Jetpack Compose. Features PIN lock security, dark/light mode, mood streak counter, weekly chart, favorites, custom moods, weekly report, PDF export, and daily reminders.
 
@@ -37,33 +37,36 @@ Android mood tracking app with PIN lock security, streak tracking, and weekly PD
 
 ### 🏠 Home Screen
 Dashboard showing today's mood, streak counter, total logs, and top mood stats.
-
+![Home](docs/screenshots/Create_pin1.png)
+![Home](docs/screenshots/confirm_pin1.png)
 ![Home](docs/screenshots/home.png)
 
 ### ➕ Log Mood Screen
 Choose from 8 default emoji moods or custom moods. Add an optional note before saving.
 
 ![Log Mood](docs/screenshots/log_mood.png)
+![Log Mood](docs/screenshots/log_mood1_LM.png)
+![Log Mood](docs/screenshots/log_mood1.png)
 
 ### 📖 History Screen
 All past mood entries with color-coded cards. Tap heart to save favorites.
 
-![History](docs/screenshots/history.png)
+![History](docs/screenshots/mood_history.png)
 
 ### ❤️ Favorites Screen
 All bookmarked mood entries in one place.
 
-![Favorites](docs/screenshots/favorites.png)
+![Favorites](docs/screenshots/fav.png)
 
 ### 📊 Mood Chart Screen
 Visual bar chart showing how many times each mood was logged.
 
-![Chart](docs/screenshots/chart.png)
+![Chart](docs/screenshots/mood_chart1.png)
 
 ### 🎨 Custom Moods Screen
 Add your own moods with a custom emoji, name, and color.
 
-![Custom Moods](docs/screenshots/custom_moods.png)
+![Custom Moods](docs/screenshots/custom_mood.png)
 
 ### 🔐 PIN Lock Screen
 Secure your journal with a 4-digit PIN. Set up on first launch.
