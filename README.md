@@ -1,4 +1,5 @@
 
+# Mood Journal Android App
 
 A beautiful and secure personal mood tracking Android app built with Kotlin and Jetpack Compose. Features PIN lock security, dark/light mode, mood streak counter, weekly chart, favorites, custom moods, weekly report, PDF export, and daily reminders.
 
