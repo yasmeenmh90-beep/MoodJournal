@@ -86,7 +86,9 @@ Full light mode support — toggle anytime from the home screen.
 ### 📈 Weekly Report
 Mood breakdown for last 7 days with stats and PDF export button.
 
-![Weekly Report](docs/screenshots/weekly_report.png)
+![Weekly Report](docs/screenshots/weekly_report1.png)
+
+![Weekly Report](docs/screenshots/weekly_report2.png)
 
 ---
 
