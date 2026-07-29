@@ -37,15 +37,20 @@ Android mood tracking app with PIN lock security, streak tracking, and weekly PD
 
 ### 🏠 Home Screen
 Dashboard showing today's mood, streak counter, total logs, and top mood stats.
+
 ![Home](docs/screenshots/Create_pin1.png)
+
 ![Home](docs/screenshots/confirm_pin1.png)
+
 ![Home](docs/screenshots/home.png)
 
 ### ➕ Log Mood Screen
 Choose from 8 default emoji moods or custom moods. Add an optional note before saving.
 
 ![Log Mood](docs/screenshots/log_mood.png)
+
 ![Log Mood](docs/screenshots/log_mood1_LM.png)
+
 ![Log Mood](docs/screenshots/log_mood1.png)
 
 ### 📖 History Screen
